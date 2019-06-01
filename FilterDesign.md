@@ -7,6 +7,7 @@
 ```an optimization problem where each requirement contributes to an error function which should be minimized.```
 
 Typical requirements which are considered in the design filter process are a specific frequency response, a specific phase shift, a specific impulse response, causal, stable, should be localized, the computational complexity of the filter should be low and should be implemented in particular hardware or software.  
+ 
 
 <img src="https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/accircuits-acp17.gif" align ="center" width="600">
 
