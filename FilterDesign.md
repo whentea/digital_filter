@@ -8,10 +8,6 @@
 
 Typical requirements which are considered in the design filter process are a specific frequency response, a specific phase shift, a specific impulse response, causal, stable, should be localized, the computational complexity of the filter should be low and should be implemented in particular hardware or software.  
  
-
-<img src="https://github.com/whentea/images/blob/master/accircuits-acp24.gif" align ="center" width="600">
-
-
 ###### Refer to  
 * https://en.wikipedia.org/wiki/Filter_design,  
 * https://www.electronics-tutorials.ws/accircuits/sinusoidal-waveform.html
